@@ -11,6 +11,7 @@
 
 # others
 *.swp
+_removed_posts/*
 
 # site build
 *.gem
