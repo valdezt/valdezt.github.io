@@ -1,12 +1,12 @@
 ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
+  username: valdezt
+  name: Travis Valdez
+  url_full: http://valdezt.github.io/
+  url: valdezt.github.io/
+  bio: My Personal Github Site
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  facebook: False
+  twitter: False
   cover: False
 hannah:
   username: hannah
