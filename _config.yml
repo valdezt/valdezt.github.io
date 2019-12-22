@@ -71,7 +71,6 @@ safe: False
 lsi: False
 username: valdezt
 repo: valdezt.github.io
-branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
 production_url:  https://valdezt.github.io/jasper2/
