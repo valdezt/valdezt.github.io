@@ -5,6 +5,9 @@ rvm:
 - 2.5.1
 install:
 - bundle install
+before_script:
+  - git config --global user.email "travis.r.valdez@gmail.com"
+  - git config --global user.name "Travis-CI"
 script: bundle exec rake site:deploy --quiet
 env:
   global:
