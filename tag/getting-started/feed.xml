@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-12-29T18:36:59+00:00</updated>
+  <updated>2019-12-29T20:41:46+00:00</updated>
   <id>/tag/getting-started/feed.xml</id>
 
   
@@ -37,9 +37,11 @@
       <published>2019-12-29T12:20:00+00:00</published>
       <updated>2019-12-29T12:20:00+00:00</updated>
       <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to my personal GitHub page!&lt;/p&gt;
+      <content type="html" xml:base="/welcome">&lt;p&gt;Hi, I’m Travis and this is my personal Github page.&lt;/p&gt;
 
-&lt;p&gt;I’m a data scientist working at a fintech in Toronto, Canada. More to come on this site soon!&lt;/p&gt;</content>
+&lt;p&gt;I’ve been looking to start a blog/website of my own for quite some time and had a few failed starts because I didn’t like the format or wasn’t proud of the content, etc. This is my latest attempt and hopefully this one sticks. I don’t plan to post often, but I’d like to start posting some of my data projects in both working and final states. I don’t have anything “finished” at the moment but I’d like to post a WIP sometime soon.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to know more about me, check out the &lt;a href=&quot;https://valdezt.github.io/about&quot;&gt;About&lt;/a&gt; page.&lt;/p&gt;</content>
 
       
       
@@ -60,7 +62,7 @@
       
 
       
-        <summary type="html">Hey! Welcome to my personal GitHub page!</summary>
+        <summary type="html">Hi, I’m Travis and this is my personal Github page.</summary>
       
 
       
