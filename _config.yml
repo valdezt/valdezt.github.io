@@ -9,12 +9,12 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Travis Valdez's Blog
+description: Coding, data science and more
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo_dark: assets/images/favicon.jpg
+favicon: assets/images/favicon.jpg
 production_url: https://valdezt.github.io/
 source_url: https://github.com/valdezt/valdezt.github.io/
 CNAME: #add cname for website to be created
@@ -24,8 +24,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: trvsvldz # replace by your username
+# facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
