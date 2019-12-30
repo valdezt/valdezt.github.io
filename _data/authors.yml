@@ -1,9 +1,10 @@
-ghost:
+valdezt:
   username: valdezt
   name: Travis Valdez
+  location: Toronto, Canada
   url_full: http://valdezt.github.io/
   url: valdezt.github.io/
-  bio: My Personal Github Site
+  bio: Travis is a data scientist at a Fintech in Toronto, Canada. He loves music, baseball, fiction and physics.
   picture: assets/images/travis.jpg
   facebook: False
   twitter: trvsvldz
