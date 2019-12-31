@@ -740,16 +740,23 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin-top: 0;
 }
 
-.post-full-content img,
+.post-full-content figure {
+  display: block;
+  width: 75%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+
 .post-full-content video {
     display: block;
     margin: 1.5em auto;
-    max-width: 1040px;
+    max-width: 500px;
 }
-@media (max-width: 1040px) {
-    .post-full-content img,
+@media (max-width: 500px) {
     .post-full-content video {
-        width: 100%;
+        width: 75%;
     }
 }
 

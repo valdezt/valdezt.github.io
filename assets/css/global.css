@@ -45,7 +45,6 @@ code,
 del,
 dfn,
 em,
-img,
 ins,
 kbd,
 q,
@@ -81,7 +80,6 @@ aside,
 canvas,
 details,
 embed,
-figcaption,
 footer,
 header,
 hgroup,
@@ -101,14 +99,6 @@ video {
     font: inherit;
     font-size: 100%;
     vertical-align: baseline;
-}
-figure {
-  float: right;
-  width: 70%;
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
 }
 body {
     line-height: 1;

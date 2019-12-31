@@ -116,12 +116,12 @@ production stylesheet in assets/built/screen.css
     box-shadow: #f4f8fb 0 0 0 5px;
 }
 
-figure.highlight,
+/* figure.highlight,
 .highlight pre,
 .highlight code,
 .highlight table,
 .highlight tbody,
-.highlight tr,
+.highlight tr, */
 td.code {
     border: none;
     min-width: 100%;
