@@ -82,7 +82,6 @@ canvas,
 details,
 embed,
 figure,
-figcaption,
 footer,
 header,
 hgroup,
@@ -102,6 +101,15 @@ video {
     font: inherit;
     font-size: 100%;
     vertical-align: baseline;
+}
+figcaption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 50%;
+    vertical-align: baseline;
+    align: middle;
 }
 body {
     line-height: 1;
