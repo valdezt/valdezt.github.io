@@ -12,13 +12,9 @@ This is my personal GitHub site where I'm planning to post a whole bunch of diff
 
 I grew up in the southwestern part of Ontario, Canada in the relatively small city of Windsor. When I was young, I loved watching baseball and hockey, and despite being a Canadian I cheered for Detroit sports teams. I played hockey as a kid (just doing my civic duty as a Canadian) and enjoyed watching the Red Wings win the cup a handful of times in the late 90s and early 2000s. I was lucky enough to see the greats like Yzerman, Shanahan, Lidstrom and Osgoode in person. I miss when the Wings were good...
 
+{% include image.html url="https://66.media.tumblr.com/tumblr_mackcgGkNF1rzdljko2_500.gifv" description="Just the bois." %}
 
-<figure>
-<img src="https://66.media.tumblr.com/tumblr_mackcgGkNF1rzdljko2_500.gifv" alt="red wings cups" align="middle">
-<figcaption>Just the bois.</figcaption>
-</figure>
-
-
+Just the bois.
 
 As a teenager I developed an interest in music and started playing guitar with friends, drawing pathetically small crowds to local pubs playing both original and cover songs. For a time, I was convinced I wanted to study sound engineering and become a professional sound engineer. Needless to say, I grew out of that phase but the love for music persisted. Most often, you'll catch me listening to:
 
